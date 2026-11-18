@@ -4,24 +4,7 @@
   "sponsors": [
     {
       "id": "default-world",
-      "image": "default.png"
-    },
-    {
-      "id": "cairo-example",
-      "image": "egypt.png",
-      "countries": ["EG"],
-      "from": "2026-12-01",
-      "until": "2026-12-31"
-    },
-    {
-      "id": "uk-example",
-      "image": "uk.png",
-      "countries": ["GB"]
-    },
-    {
-      "id": "arabic-speakers-example",
-      "image": "arabic.png",
-      "languages": ["ar"]
+      "image": "Gemini_Generated_Image_e8e110e8e110e8e1.jpg"
     }
   ]
 }
